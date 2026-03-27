@@ -1,4 +1,7 @@
-import horloge.Horloge;
+package org.example;
+
+import org.example.horloge.Horloge;
+import org.example.horloge.WrapperHorloge;
 
 import java.time.DayOfWeek;
 
@@ -9,6 +12,14 @@ public class Welcome {
     public Welcome(Horloge horloge) {
         this.horloge = horloge;
     }
+
+    public Welcome() {
+        //this.horloge = new WrapperHorloge();
+        this(new WrapperHorloge());
+        // appelle le constructeur précédent (celui au-dessus) en lui donnant la bonne valeur.
+
+    }
+
 
     public String getMessage() {
         DayOfWeek dayOfWeek = horloge.now().getDayOfWeek();

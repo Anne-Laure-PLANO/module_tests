@@ -1,4 +1,4 @@
-package horloge;
+package org.example.horloge;
 
 import java.time.LocalDateTime;
 
