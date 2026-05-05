@@ -1,0 +1,32 @@
+Comté, 9, 11
+Normal, 29, 49
+Kryptonite, 100, 80
+Pass VIP Concert, 19, 26
+Pouvoirs magiques, 49, 48
+Comté, -2, 5
+Normal, -2, 20
+Kryptonite, -1, 80
+Pass VIP Concert, -1, 0
+Pouvoirs magiques, -2, 20
+Comté, 0, 2
+Normal, 29, 0
+Kryptonite, 100, 0
+Pass VIP Concert, 3, 3
+Pouvoirs magiques, 24, 0
+Comté, 29, 50
+Pouvoirs magiques, 49, 48
+Comté, 19, 50
+Pass VIP Concert, 14, 50
+Pass VIP Concert, 9, 50
+Pass VIP Concert, 4, 50
+Kryptonite, 0, 80
+Pass VIP Concert, 10, 26
+Pass VIP Concert, 9, 27
+Pass VIP Concert, 5, 27
+Pass VIP Concert, 4, 28
+Pass VIP Concert, 0, 0
+Pass VIP Concert, -1, 0
+Pouvoirs magiques, 9, 23
+Pouvoirs magiques, 0, 23
+Pouvoirs magiques, -1, 23
+
